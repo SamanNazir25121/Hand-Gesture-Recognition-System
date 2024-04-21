@@ -1,7 +1,3 @@
-Here's a sample README file for your hand gesture recognition project:
-
----
-
 # Hand Gesture Recognition System
 
 ## Overview
